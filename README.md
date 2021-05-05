@@ -22,7 +22,7 @@ Tier 2
 
 5)  Add, Delete, Update User Appointments (Tier 2) - Braydon 
 
-6) Admin will see the appointments in the today and weekly calendar, admin can reply inquiries. (Tier 2) - Ikumi
+6) Admin interface; Admin will see the appointments in the today and weekly calendar, admin can reply inquiries. (Tier 2) - Ikumi
 
 Tier 3
 
