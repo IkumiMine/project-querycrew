@@ -1,5 +1,8 @@
 # Web-App-2
 
+## Project Description
+For this project, our goal is to create a dynamic, data-driven website for the medical industry. All our web pages will be database driven.. We will be building a website with an appointment booking system for a doctor’s office that offers a variety of services. Patients will be able to go onto the site, look at the services that we offer, and book an appointment with their desired doctor on the website. Doctors will be able to edit their profiles, fill in their availability, and view an upcoming appointment. Administrators will be able to add and delete doctors and patient users. Administrators will also be able to book and cancel appointments to facilitate those patients who have difficulty using the online portal, which will make our project design more accessible. These varieties of features will ensure a smooth operating experience for the patient, the doctor and the administrators.
+
 Tier 1:
 
 1) FAQs (Tier 1) - Ikumi
