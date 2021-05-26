@@ -39,7 +39,7 @@ class AdminAppointmentPDO {
     //get all appointments on the day
     public function getAllAppointmentsToday($dbcon) {
         $query = "SELECT * FROM appointments, days 
-                    WHERE appointments.day_id = days.id AND days.date = NOW()";
+                    WHERE appointments.day_id = days.id AND days.date = CURRENT_DATE()";
         $pdostm = $dbcon->prepare($query);
         $pdostm->execute();
 
